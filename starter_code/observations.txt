@@ -1,0 +1,5 @@
+3 trends:
+
+1. Humidity had fewer lower values near the equator. 
+2. There is a relationship between city latitude and temperature. Cities near the equator are hotter while high latitude cities are colder. 
+3. Windiness and cloudiness are more dependent on other factors than just city latitude
